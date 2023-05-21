@@ -15,6 +15,7 @@ Welcome to my Solar Energy Potential Estimation project! This repository showcas
 - Clean and well-organized codebase, ensuring easy understanding and potential for further development.
 
 **Repository Contents:**
+The following are included in the Solar_in_Glover project file.
 - **Code**: Contains the scripts and workflows implemented for solar energy potential estimation.
 - **Data**: Includes sample datasets used for demonstration purposes.
 - **Results**: Presents the output of the analysis, including visualizations and reports.
