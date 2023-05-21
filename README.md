@@ -17,8 +17,11 @@ Welcome to my Solar Energy Potential Estimation project! This repository showcas
 **Repository Contents:**
 The following are included in the Solar_in_Glover project file.
 - **Code**: Contains the scripts and workflows implemented for solar energy potential estimation.
-- **Data**: Includes sample datasets used for demonstration purposes.
+- **Data**: Includes sample datasets (DSM and building footprints) used for demonstration purposes.
+![Data](https://github.com/austineaero/Solar-Power-Potential/assets/66695888/c5282c5e-43cf-4e5e-9b1c-03186ca86cdf)
+
 - **Results**: Presents the output of the analysis, including visualizations and reports.
+![Suitable_Buildings](https://github.com/austineaero/Solar-Power-Potential/assets/66695888/cce1b27d-723b-4afb-a74b-ac380a75df4d)
 
 **How to Use:**
 1. Clone or download the repository to your local machine.
