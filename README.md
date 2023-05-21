@@ -22,9 +22,8 @@ The following are included in the Solar_in_Glover project file.
 
 **How to Use:**
 1. Clone or download the repository to your local machine.
-2. Follow the instructions provided in the README file within the "Code" directory for setting up the environment and running the analysis.
-3. Explore the "Data" folder to understand the input data structure and format.
-4. Access the "Results" folder to view the generated outputs, including maps, graphs, and reports.
+2. Explore the "Data" section in ArcGIS to understand the input data structure and format.
+3. Access the "Results" section to view the generated outputs, including maps, graphs, and reports.
 
 **Collaboration:**
 - This project is open to collaboration and contributions from the community.
