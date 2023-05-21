@@ -20,7 +20,7 @@ The following are included in the Solar_in_Glover project file.
 - **Data**: Includes sample datasets (DSM and building footprints) used for demonstration purposes.
 ![Data](https://github.com/austineaero/Solar-Power-Potential/assets/66695888/c5282c5e-43cf-4e5e-9b1c-03186ca86cdf)
 
-- **Results**: Presents the output of the analysis, including visualizations and reports.
+- **Results**: Presents the output of the analysis, including visualisations and reports (Suitable_Buildings.geojson).
 ![Suitable_Buildings](https://github.com/austineaero/Solar-Power-Potential/assets/66695888/cce1b27d-723b-4afb-a74b-ac380a75df4d)
 
 **How to Use:**
