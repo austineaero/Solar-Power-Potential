@@ -1,5 +1,5 @@
 # Solar-Power-Potential
-Solar Power Potential of Buildings using ArcGIS
+
 **Solar Energy Potential Estimation of Buildings using ArcGIS**
 
 Welcome to my Solar Energy Potential Estimation project! This repository showcases my expertise in utilising ArcGIS for accurately assessing solar energy potential in buildings. 
