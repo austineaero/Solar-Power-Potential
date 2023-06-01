@@ -2,7 +2,7 @@
 
 **Estimation of Solar Power Potential Buildings using ArcGIS**
 
-Welcome to my Solar Energy Potential Estimation project! This repository showcases my expertise in utilising ArcGIS for accurately assessing solar energy potential in buildings. 
+Welcome to my Solar Energy project! This repository showcases my expertise in utilising ArcGIS for accurately assessing solar energy potential in buildings. 
 
 **Key Features:**
 - Leveraged DSM, building footprints, and the Area Solar Radiation tool in ArcGIS for precise estimation of solar power potential.
